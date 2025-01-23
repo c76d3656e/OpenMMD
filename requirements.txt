@@ -1,12 +1,17 @@
+# python=3.7.9
+# pip config set global.index-url https://mirrors.cloud.tencent.com/pypi/simple
+cmake
 dlib==19.22.1
 h5py==2.10.0
 imageio==2.9.0
 matplotlib==3.0.0
-numpy==1.16.4 
+numpy==1.16.5
 opencv_python==4.5.3.56
 Pillow==9.0.0
 PyQt5==5.15.6
 scipy==1.7.3
 six==1.16.0
-skimage==0.0
+scikit-image
 tqdm==4.62.3
+tensorflow==1.13.1
+protobuf==3.20.3
